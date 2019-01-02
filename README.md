@@ -4,7 +4,7 @@
 
 Simple express server to serve a static json file with cors support
 
-- You can find a project using this data [here](https://inputs.now.sh/)
+- You can find a project using this data [here](https://github.com/eeegor/blockchain-ico)
 
 ## :gear: Configuration
 
